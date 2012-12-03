@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">BMI</string>
+    <string name="hello2">This is my string</string>
+	<string name="name_is">My name is</string>
+	<string name="my_name">劉治廷</string>
+</resources>

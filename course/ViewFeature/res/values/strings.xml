@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ViewFeatureActivity!</string>
+    <string name="app_name">ViewFeature</string>
+	<string name="visible">Visible</string>
+	<string name="invisible">Invisible</string>
+	<string name="gone">Gone</string>
+</resources>
